@@ -32,10 +32,11 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Dogo Game](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+- [Python - Dogo Game](https://github.com/pedroviskDev/AED2---Dogo-main)
+- [Fokus](https://github.com/pedroviskDev/Fokus)
+- [SQL](https://github.com/pedroviskDev/Banco-de-Dados---CRUD)
+- [NodeJS- Validador de Links](https://github.com/pedroviskDev/Validar-Links)
+- [AluraBooks](https://github.com/pedroviskDev/site-aluraBook)
 
 <!-- GIF -->
 <p align="left">
